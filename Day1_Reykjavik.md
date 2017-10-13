@@ -1,4 +1,4 @@
-# Arrival and Reykjavik
+# Day 1 - Arrival and Reykjavik
 
 Dad arrives at 6:35 AM 
 
