@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# Day 4 - Golden Circle
-
-=======
 # Day 4 - Golden Circle and Selfoss
->>>>>>> 671078b4ad6d659814faad53b2b8b4590c595ece
 
 __Helpful Links__
 https://guidetoiceland.is/you-guide/how-to-drive-the-golden-circle - has interactive map

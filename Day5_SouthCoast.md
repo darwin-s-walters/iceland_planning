@@ -1,25 +1,8 @@
-<<<<<<< HEAD
-# Day 4 - Golden Circle
-
-=======
-# Day 4 - Golden Circle and Selfoss
->>>>>>> 671078b4ad6d659814faad53b2b8b4590c595ece
+# Day 5 - South Coast
 
 __Helpful Links__
-https://guidetoiceland.is/you-guide/how-to-drive-the-golden-circle - has interactive map
-
-__Important Times__  
-
-Borgarnes Checkout: 11:00 AM
-
-Sunrise: 8:39 AM  
-Sunset: 6:14 PM  
-
-
-
-__Travel__  
-
-Total driving time (w/o stops): Approx. 4 hours 
+Hikes near Vik https://www.wikiloc.com/trails/hiking/iceland/south/vik
+Info on sites near reynisfjara http://adventurousmiriam.com/reynisfjara-black-sand-beach-iceland/
 
 Borgarnes AirBnb to Thingvellir | 50 minutes 
 Thingvellir to Geysir | 46 minutes
@@ -31,11 +14,13 @@ Kerio to Selfoss AirBnB | 14 minutes
 
 __Lodging:__ 
 
-Skólavellir 11
-Selfoss, 800
-Iceland
+Fosshotel Nupar
+Check-in 4:00 PM
 
-Check-In: flexible  
+888- Kálfafell – South Iceland  
+Skaftafell National Park  
+Nupar  
+
 
 Supermarket: Bonus  
 
@@ -44,13 +29,47 @@ Bónus & Hagkaup, Gaulverjabæjarvegur, Selfoss, Ísland
 
 __Attractions:__
 
-Golden Circle:  
-+ Thingvellir - Scenic Landscape and Mid-Atlantic Rift, waterfalls  
-+ Geysir  - erupts every 10 minutes  
-+ Gulfoss - Waterfall with hikes to top and bottom 
-+ Secret Lagoon
+Skogafoss - 60m waterfall with steps to the top  
+Fljótsdalshreppur - pass at the top of Skogafoss (LONG hike)
+Reynisfjara Beach - black sand beach with basalt columns (caution, strong waves can pull people into rip current)
 
-Bobby Fisher Center  
-http://www.fischersetur.is/index.cfm?CFID=16cf3e12-4eaf-48fe-854e-0f807198b78e&CFTOKEN=0&lang=en&page=pages/start_en1  
-Admission: $8  
-Open 1PM to 4PM (or by appointment)
+
+
+__Important Times__  
+
+Selfoss Checkout: 12:00 PM
+
+Sunrise: 8:39 AM  
+Sunset: 6:14 PM  
+
+
+
+__Travel__  
+
+
+Selfoss AirBnb to EE | 1 hour
+Eyjafjallajökull Erupts to Skógafoss, Iceland | 11 minutes   
+Skogafoss to Reynisfjara Beach | 30 minutes
+Reynisfjara Beach to Fosshotel | 1 hour 18 minutes
+
+__Lodging:__ 
+
+Fosshotel Nupar
+Check-in 4:00 PM
+
+888- Kálfafell – South Iceland  
+Skaftafell National Park  
+Nupar  
+
+
+Supermarket: Kjarval  (19 minutes from hotel, 1 hour from Reynisfjara)
+address: Kirkjubæjarklaustur, Iceland
+Hours: 10 AM - 6 PM 
+
+
+__Attractions:__
+
+Skogafoss - 60m waterfall with steps to the top  
+Reynisfjara Beach - black sand beach with lava formations and basalt columns (caution, strong waves can pull people into rip current)
+
+ 
