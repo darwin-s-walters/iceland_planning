@@ -37,5 +37,5 @@ Glacial Lagoon - might see seals!
 Ice (Diamond) Beach - Right next to glacier lagoon
 
 Skaftafell National Park:
-+ S1: Skaftafellsjökull - easy hike to base of glacier
- 
++ S1: Skaftafellsjökull - easy hike to base of Skaftafellsjökull outlet glacier (2.5 mile round trip)
+
