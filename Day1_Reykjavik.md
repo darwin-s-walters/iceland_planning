@@ -1,8 +1,8 @@
-# Arrival and Reykjavik
+# Day 1 - Arrival and Reykjavik
 
 Dad arrives at 6:35 AM 
 
-Cara and Darin arrive at 6:00 
+Cara and Darwin arrive at 6:00 
 
 7:30 - Car pickup at airport (also look for WiFI Hotspot and/or SIM cards
 

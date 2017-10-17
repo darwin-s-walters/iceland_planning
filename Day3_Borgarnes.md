@@ -1,4 +1,4 @@
-# Borgarnes and Borgarfjorour Valley 
+# Day 3 - Borgarnes and Borgarfjorour Valley 
 
 
 __Helpful Links__

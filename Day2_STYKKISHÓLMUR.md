@@ -1,4 +1,4 @@
-#Stykkishólmur and Snaefellsnes Peninsula
+# Day 2 - Stykkishólmur and Snaefellsnes Peninsula
 
 
 __Helpful Links__

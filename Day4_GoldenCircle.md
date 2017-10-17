@@ -1,10 +1,16 @@
+<<<<<<< HEAD
 # Day 4 - Golden Circle
 
+=======
+# Day 4 - Golden Circle and Selfoss
+>>>>>>> 671078b4ad6d659814faad53b2b8b4590c595ece
 
 __Helpful Links__
-
+https://guidetoiceland.is/you-guide/how-to-drive-the-golden-circle - has interactive map
 
 __Important Times__  
+
+Borgarnes Checkout: 11:00 AM
 
 Sunrise: 8:39 AM  
 Sunset: 6:14 PM  
@@ -13,33 +19,38 @@ Sunset: 6:14 PM
 
 __Travel__  
 
-|  AirBNB to Grabrok Crater  |  45 minutes  |   
-|  AirBnB to Barnafoss |  1 hour 5 minutes  |   
+Total driving time (w/o stops): Approx. 4 hours 
 
+Borgarnes AirBnb to Thingvellir | 50 minutes 
+Thingvellir to Geysir | 46 minutes
+Geysir to Gulfoss | 10 minutes
+Gulfoss to Secret Lagoon at Flúðir | 30 minutes
+Secret Lagoon to Kerið | 30 minutes
+
+Kerio to Selfoss AirBnB | 14 minutes
 
 __Lodging:__ 
 
-TODO: Message Host for Address
+Skólavellir 11
+Selfoss, 800
+Iceland
 
-> https://www.google.is/maps/place/64%C2%B041'33.6%22N+21%C2%B055'53.5%22W/@64.6926803,-21.9337047,313m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d64.692678!4d-21.931516?hl=is
-> 
-> 64°41'33.6"N 21°55'53.5"W
-> 
-> Longitude 64.69265329178089
-> Latitude -21.93141460418701
+Check-In: flexible  
 
-Check-In: 4PM  
+Supermarket: Bonus  
+
+Bónus & Hagkaup, Gaulverjabæjarvegur, Selfoss, Ísland
 
 
 __Attractions:__
 
-From closest to AirBnB to farthest: (2 hours and 15 minutes, excluding stops)
+Golden Circle:  
++ Thingvellir - Scenic Landscape and Mid-Atlantic Rift, waterfalls  
++ Geysir  - erupts every 10 minutes  
++ Gulfoss - Waterfall with hikes to top and bottom 
++ Secret Lagoon
 
-Grabrok Crater -  easy hike  
-Deildartunguhver - hot spring  
-Hraunfossar - series of waterfalls  
-Barnafoss - sister waterfall  
-
-
-
-
+Bobby Fisher Center  
+http://www.fischersetur.is/index.cfm?CFID=16cf3e12-4eaf-48fe-854e-0f807198b78e&CFTOKEN=0&lang=en&page=pages/start_en1  
+Admission: $8  
+Open 1PM to 4PM (or by appointment)
