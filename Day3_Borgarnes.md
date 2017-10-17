@@ -2,6 +2,7 @@
 
 
 __Helpful Links__
+https://www.whatson.is/driving-iceland-borgarfjordur-west-iceland/
 
 
 __Important Times__  

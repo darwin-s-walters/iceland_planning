@@ -1,4 +1,4 @@
-# Borgarnes and Borgarfjorour Valley 
+# Day 4 - Golden Circle
 
 
 __Helpful Links__
@@ -8,6 +8,8 @@ __Important Times__
 
 Sunrise: 8:39 AM  
 Sunset: 6:14 PM  
+
+
 
 __Travel__  
 
